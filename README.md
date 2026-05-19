@@ -3,7 +3,7 @@
 > Build Instagram and LinkedIn carousels that actually get swiped through, not just saved-and-forgotten on slide 1.
 
 
-> **Part of [ccai-skills-pack](https://github.com/cory-dot/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
+> **Part of [ccai-skills-pack](https://github.com/creativecore-ai/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
 
 **Slash command:** `/ccai-carousel-builder`
 **Status:** v0.1 · works with Claude Code
@@ -48,7 +48,7 @@ No image generation, no Canva integration, the skill produces the *blueprint*. Y
 ## Install
 
 ```bash
-git clone https://github.com/cory-dot/ccai-carousel-builder ~/.claude/skills/ccai-carousel-builder
+git clone https://github.com/creativecore-ai/ccai-carousel-builder ~/.claude/skills/ccai-carousel-builder
 ```
 
 Restart Claude Code or run `/doctor` to confirm.
@@ -100,14 +100,14 @@ Same rules apply. Output is identical, the only difference is aspect ratio in th
 
 ## Part of the Creative Core AI skills pack
 
-This skill is part of [`ccai-skills-pack`](https://github.com/cory-dot/ccai-skills-pack), the full Creative Core AI skill library (26 skills total). Two ways to install:
+This skill is part of [`ccai-skills-pack`](https://github.com/creativecore-ai/ccai-skills-pack), the full Creative Core AI skill library (26 skills total). Two ways to install:
 
 ```bash
 # Just this skill (ad-hoc)
-git clone https://github.com/cory-dot/ccai-carousel-builder ~/.claude/skills/ccai-carousel-builder
+git clone https://github.com/creativecore-ai/ccai-carousel-builder ~/.claude/skills/ccai-carousel-builder
 
 # Or the entire pack
-git clone https://github.com/cory-dot/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
+git clone https://github.com/creativecore-ai/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
 ```
 
 The full pack is taught in [The AI Operator's Playbook](https://skool.com/creative-core-ai), our free Skool course for non-technical business owners.
